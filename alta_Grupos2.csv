@@ -1,0 +1,14 @@
+﻿id:Name:Path:Description:Category:Scope
+:UsuariosW10-R-GL_DepPrensa:OU=DepPrensa_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepPrensa:Security:Domainlocal
+:UsuariosW10-WR-GL_DepPrensa:OU=DepPrensa_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepPrensa:Security:Domainlocal
+:UsuariosW10-R-GL_DepAdministracion:OU=DepAdministracion_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepAdministracion:Security:Domainlocal
+:UsuariosW10-WR-GL_DepAdministracion:OU=DepAdministracion_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepAdministracion:Security:Domainlocal
+:UsuariosW10-R-GL_DepInformatica:OU=DepInformatica_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepInformatica:Security:Domainlocal
+:UsuariosW10-WR-GL_DepInformatica:OU=DepInformatica_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepInformatica:Security:Domainlocal
+:UsuariosUD-R-GL_DepRectorado:OU=DepRectorado_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepRectorado:Security:Domainlocal
+:UsuariosUD-WR-GL_DepRectorado:OU=DepRectorado_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local y de los usuarios del DepRectorado:Security:Domainlocal
+:UPV-GL-ChangeVERA:OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo local de cambio:Security:Domainlocal
+:UsuariosW10-GG_DepPrensa:OU=DepPrensa_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepPrensa:Security:Global
+:UsuariosW10-GG_DepAdministracion:OU=DepAdministracion_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepAdministracion:Security:Global
+:UsuariosW10-GG_DepInformatica:OU=DepInformatica_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepInformatica:Security:Global
+:UsuariosUD-GG_DepRectorado:OU=DepRectorado_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepRectorado:Security:Global
